@@ -1,5 +1,5 @@
 export default {
-  "port": 3005,
-  "mongoUrl": "mongodb://localhost/restaurant-api",
+  "port": 3006,
+  "mongoUrl": "mongodb://localhost/foodtruck-api",
   "bodyLimit": "100kb"
 }
